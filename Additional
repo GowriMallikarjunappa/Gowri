@@ -1,0 +1,7 @@
+def add():
+ a=int(input("value of a"))
+ b=int(input("value of b"))
+ r=a+b
+ return r
+z=add()
+print(z)
